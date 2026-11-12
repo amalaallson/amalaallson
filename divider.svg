@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Section divider">
+  <rect width="1200" height="24" fill="#080D16"/>
+  <path d="M0 12H520L536 4H664L680 12H1200" fill="none" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="24" cy="12" r="4" fill="#080D16" stroke="#00E5FF" stroke-width="2"/>
+  <circle cx="1176" cy="12" r="4" fill="#080D16" stroke="#00E5FF" stroke-width="2"/>
+  <rect x="588" y="8" width="8" height="8" fill="#8B5CF6"/>
+  <rect x="600" y="8" width="8" height="8" fill="#00E5FF"/>
+  <rect x="612" y="8" width="8" height="8" fill="#00D68F"/>
+</svg>
