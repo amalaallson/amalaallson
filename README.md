@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="AMALA ALLSON - Building intelligence at the hardware level. Embedded systems laboratory boot screen." />
+<img src="hero.svg" width="100%" alt="AMALA ALLSON - Building intelligence at the hardware level. Embedded systems laboratory boot screen." />
 
 <br/>
 
@@ -38,13 +38,13 @@ Electronics and Communication Engineering student passionate about embedded syst
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a id="hardware"></a>
 
 ## HARDWARE ECOSYSTEM // SYSTEM ARCHITECTURE
 
-<img src="./assets/hardware-architecture.svg" width="100%" alt="Generic microcontroller interface map: GPIO, PWM, ADC/DAC, I2C, I2S, 1-wire and UART connected to an MCU, with STM32 Blue Pill, ESP32 DevKit V1, PSoC 4100S Plus and ESP32-CAM as target platforms." />
+<img src="hardware-architecture.svg" width="100%" alt="Generic microcontroller interface map: GPIO, PWM, ADC/DAC, I2C, I2S, 1-wire and UART connected to an MCU, with STM32 Blue Pill, ESP32 DevKit V1, PSoC 4100S Plus and ESP32-CAM as target platforms." />
 
 <sub>Generic interface map. Pin numbers and wiring are shown only where a project documents them, so none are shown here.</sub>
 
